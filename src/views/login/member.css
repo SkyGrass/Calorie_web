@@ -1,0 +1,34 @@
+#footer{background:none}
+#logo_search .stateTit{margin-top:12px;}
+#logo_search .stateTit span{font-size:22px;color:#676767;padding-left:20px;}
+.login2{height:450px;/*background:url(/static/images/loginbg.jpg) no-repeat center center*/}
+.login2 .main{height:450px;margin-top:0px;position:relative}
+.login_kuang{width:330px;height:300px;background:#fff;position:absolute;left:670px;top:60px}
+.login_kuang .input_common{width:270px;margin:0px auto;}
+.login_kuang .input_common input{width:228px;padding-left:40px;color:#666}
+.login_kuang .input_common .title {text-align:left;margin-top:15px;padding-bottom:15px;}
+.login_kuang .input_common .title>span{font-size:20px;color:#25b19c;font-family:'微软雅黑';width: 30%}
+.login_kuang .input_common .title>div{width: 70%;float: right;margin: 0;height: 100%}
+.login_kuang .input_common .title>div>span{font-size:16px;font-family:'微软雅黑';width: 50%;margin: 0;padding:5px; height: 100%;text-align: center;background-color: #F2F2F2;color:#CCC;}
+.login_kuang .input_common .title>div>span.onSelect{color:#25b19c;background-color: #FFF;}
+.login_kuang .input_common .title:after{display: block;clear: both;content: "";}
+.login_kuang .input_common .userName{background:url(/static/images/userInputBg.jpg) no-repeat left center;position:relative;margin-bottom:15px;}
+.login_kuang .input_common .userName .tips{display:none;position:absolute;width:223px;padding-left:5px;border:1px solid #f9c153;color:#666;left:0px;top:32px;height:25px;line-height:25px;background:#fad894;overflow:hidden;}
+.login_kuang .input_common .passWord{background:url(/static/images/passWordBg.jpg) no-repeat left center;position:relative;}
+.login_kuang .input_common .passWord .tips{display:none;position:absolute;width:223px;padding-left:5px;border:1px solid #f9c153;color:#666;left:0px;top:32px;height:25px;line-height:25px;background:#fad894;overflow:hidden}
+.login_kuang .input_common .yzm{background:url(/static/images/yzmico.gif) no-repeat left center;position:relative;}
+.login_kuang .input_common .yzm img{width:94px;height:32px;vertical-align:middle}
+.login_kuang .input_common .yzm .tips{display:none;}
+
+.login_kuang .input_common input{background-color:transparent;*line-height:30px;}
+.login_kuang .input_common .forgetPwd{margin:0px;padding:0px;zoom:1}
+.login_kuang .input_common .forgetPwd span{color:#ed6c07;font-weight:bold;font-size:14px;float: left;}
+.login_kuang .input_common .forgetPwd a{display:inline-block;text-align:right;color:#4cc1b1;text-decoration:underline;width:30%;float: right;}
+.login_kuang .input_common .forgetPwd:after{display: block;clear: both;content: "";}
+.login_kuang .input_common .submitBtn{width:100%;height:35px;line-height:35px;font-size:16px;}
+.login_kuang .message{color:#7b7b7b;border:1px dashed #dcdcdc;padding:8px;margin-top:10px}
+
+.login2{position:relative;overflow:visible !important;}
+#Carousel{width:100%;height:450px;position:absolute;left:0px;overflow:visible !important;}
+#Carousel .showImg{overflow:visible;height:450px;position:absolute;left:50%;width:1600px;height:450px;display:none;*margin-left:-800px;}
+#Carousel .showImg img{display:block;height:450px;width:auto;position:relative;left:-50%;*left:0px;}
